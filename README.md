@@ -1,5 +1,4 @@
 # Proyecto-Chat
-# Chat Empresarial PSP46
 
 **Autor:** Jorge Rivera Pozuelo  
 **GitHub:** [@JorgeRiveraPozuelo](https://github.com/JorgeRiveraPozuelo)
